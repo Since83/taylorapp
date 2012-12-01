@@ -1,2 +1,1 @@
-Taylors Idea
-=========
+All code copyright EricHamby.Com & Taylor King 2012-2013
