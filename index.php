@@ -37,7 +37,7 @@ a {
           </script></li>
         <li>Please login or sign up to use this service</li>
       </ul>
-    </div>
+    </div> 
     <!-- menu --> 
   </div>
   <!--end header -->
