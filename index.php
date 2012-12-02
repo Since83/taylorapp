@@ -11,7 +11,7 @@
 <!-- Stylesheet -->
 <link rel="stylesheet" type="text/css" href="css/style.css" />
 <style type="text/css">
-a {
+a { 
 	color: #47AFD5;
 }
 </style>
